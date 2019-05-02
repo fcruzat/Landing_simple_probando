@@ -51,5 +51,12 @@ h5{
     padding: 40px;
 }
 .prueba{
-    background-color: purple;
+    background-color: navy;
+    width: 100%;
+    /*height: 250px;*/
+    margin-top: 50px;
+}
+.p-contenido-footer{
+    color:white;
+    font-weight: 300;
 }
