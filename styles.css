@@ -23,3 +23,30 @@ h5{
 .margin-top{
     margin-top: 30px;
 }
+.h5-img1{
+    color: orange;
+    font-weight: 600;
+}
+.h5-img2{
+    color: lawngreen;
+    font-weight: 600;
+}
+.h5-img3{
+    color: lightskyblue;
+    font-weight: 600;
+}
+
+.p-contenido-img{
+    color:white;
+    font-weight: 600;
+}
+
+.imgs-height{
+    height: 250px;
+}
+.padding-letras{
+    padding: 30px;
+}
+.padding-letras2{
+    padding: 40px;
+}
