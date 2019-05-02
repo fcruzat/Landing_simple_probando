@@ -5,3 +5,18 @@
     width: 50px;
     height: auto;
 }
+h2{
+    color: mediumseagreen;
+    font-weight: 700;
+}
+h5{
+    font-weight: 700;
+}
+
+.letra-celeste{
+    color: lightseagreen;
+    font-weight: 600;
+}
+.margin-none{
+    margin-bottom: 0;
+}
